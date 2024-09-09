@@ -1,1 +1,1 @@
-OsuRows Public Branch
+OsuRows is open source now!!
