@@ -1,1 +1,1 @@
-OsuRows Private Branch
+OsuRows Public Branch
