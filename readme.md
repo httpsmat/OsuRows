@@ -1,3 +1,6 @@
+# NOTES
+<p>Don't download the optimised build directly before 0.7.5 releases for it since the beatmap system is still on the old and very bad version!!</p>
+
 # OsuRows! Public Github
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/w9UAv4BeVA?style=flat)](https://discord.gg/w9UAv4BeVA)
 <h2>If you wish to help please fork this project!!</h2>
